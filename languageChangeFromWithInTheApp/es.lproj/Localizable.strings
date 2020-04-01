@@ -1,0 +1,12 @@
+/* 
+  Localizable.strings
+  languageChangeFromWithInTheApp
+
+  Created by Himansu Sekhar Panigrahi on 23/01/20.
+  Copyright © 2020 Himansu Sekhar Panigrahi. All rights reserved.
+*/
+
+
+
+"FirstNameKey" = "nombre de pila";
+"LastNameKey" = "apellido";
